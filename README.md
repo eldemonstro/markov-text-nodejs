@@ -2,7 +2,7 @@
 
 This project is aimed to make generate text via Markov Chains, it takes the
 input (`alice_oz.txt`) and trains with it to generate text based on it, you
-can read more about the Markov Chain on [Rosseta Code](https://rosettacode.org/wiki/Markov_chain_text_generator)
+can read more about the Markov Chain on [Rosetta Code](https://rosettacode.org/wiki/Markov_chain_text_generator)
 the algorithm I used is based on what is there.
 
 You also can place other inputs to see what is the results, It just need to be a
